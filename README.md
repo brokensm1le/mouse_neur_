@@ -10,8 +10,8 @@
 ### 23ht3
 
 <p float="left">
-  <img src="/pic/23ht3_i.png" width="420" />
-  <img src="/pic/23ht3_r.png" width="420" />
+  <img src="/pic/23ht3_i.png" width="410" />
+  <img src="/pic/23ht3_r.png" width="410" />
 </p>
 
 ### 25ht3
