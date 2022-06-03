@@ -3,8 +3,8 @@
 ### 22ht3
 
 <p float="left">
-  <img src="/pic/22ht3_i.png" width="450" />
-  <img src="/pic/22ht3_r.png" width="450" />
+  <img src="/pic/22ht3_i.png" width="400" />
+  <img src="/pic/22ht3_r.png" width="420" />
 </p>
 
 ### 23ht3
